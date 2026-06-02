@@ -1,0 +1,2 @@
+este lab era apenas para rodar e entender as células de código usando google collab para entender as operações possíveis com python em específico o que será util para o curso como operações e manipulaões de matrizes / vetores
+DONE
